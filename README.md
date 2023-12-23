@@ -17,7 +17,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ☑ HTML5 / CSS3 / SASS / Bootstrap <br/> 
 ☑ Photoshop / Illustrator <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedhossain25)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🤝 Make contact with me!
 
